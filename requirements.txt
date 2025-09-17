@@ -1,0 +1,13 @@
+matplotlib
+pandas
+tqdm
+resampy
+tensorflow
+keras
+np_utils
+flask
+scikit-learn==1.7.0
+line-bot-sdk==3.13.0
+google-cloud-aiplatform
+langdetect
+psycopg2-binary
